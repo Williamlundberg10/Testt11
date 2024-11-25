@@ -1,5 +1,10 @@
 {
     "LL": "1v",
+    "FileData": {
+        "Namn": "sverige",
+        "FileNamn": "39874984.WL",
+        "QuizD": "William"
+    },
     "data": [
         {
             "Namn": "INFO",
