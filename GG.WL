@@ -1,7 +1,7 @@
 {
     "LL": "1v",
     "FileData": {
-        "Namn": "sverige",
+        "Namn": "00000000sverige",
         "FileNamn": "39874984.WL",
         "QuizD": "William"
     },
@@ -10,7 +10,7 @@
             "Namn": "INFO",
             "id": 1,
             "Mod": 4,
-            "text": "sverige Quiz"
+            "text": "0000000sverige Quiz"
         },
         {
             "Namn": "När blev svenska ett officiellt språk?",
